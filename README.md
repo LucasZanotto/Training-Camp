@@ -1,2 +1,6 @@
-<h1> Esse Repositório serve como campo de treinamento para treinar LeetCode / HackerRank </h1>
-<p> Cada pull request é um exercício diferente </p>
+<h1>Task</h1>
+The provided code stub reads two integers from STDIN, a and b. Add code to print three lines where: </br>
+
+The first line contains the sum of the two numbers. </br>
+The second line contains the difference of the two numbers (first - second). </br>
+The third line contains the product of the two numbers. </br>
