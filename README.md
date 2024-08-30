@@ -1,2 +1,3 @@
-<h1> Esse Repositório serve como campo de treinamento para treinar LeetCode / HackerRank </h1>
-<p> Cada pull request é um exercício diferente </p>
+# Task
+
+The provided code stub reads and integer, n , from STDIN. For all non-negative integers i < n , print i².
