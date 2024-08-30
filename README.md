@@ -1,2 +1,4 @@
-<h1> Esse Repositório serve como campo de treinamento para treinar LeetCode / HackerRank </h1>
-<p> Cada pull request é um exercício diferente </p>
+<h1> Python Print </h1>
+<p> The included code stub will read an integer, n , from STDIN.
+
+Without using any string methods, try to print the following</p>
