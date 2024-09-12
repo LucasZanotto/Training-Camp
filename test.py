@@ -1,1 +1,3 @@
-print("hello friends")
+class Solution:
+    def reverseWords(self, s: str) -> str:
+        
